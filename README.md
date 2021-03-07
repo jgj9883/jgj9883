@@ -13,9 +13,8 @@ I want to create strong security using deep learning, and I want to solve many n
 - AI (Machine Learning, Deep Learning)
 - Embedded software (Arduino, Raspberry Pi)
 
-
-📋 PortFolio
-KyuBin's PortFolio   ⏪ Click Here!
+#### PortFolio
+📋Kyubin's PortFolio   ⏪ Click Here!
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
