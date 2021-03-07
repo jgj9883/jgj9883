@@ -5,7 +5,7 @@ I'm Kyubin Jeon. I'm a senior at Dong-Eui University.
 I want to create strong security using deep learning, and I want to solve many natural language processing problems.
 #### Research field
 - 🎓 Dong-Eui University Student
-- Learning Deep Learning, Machine Learning, NLP, Security by AI 
+- Researching Deep Learning, Machine Learning, NLP, Security by AI 
 
 #### Interest
 
