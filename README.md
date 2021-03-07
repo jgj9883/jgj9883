@@ -1,4 +1,23 @@
 ### Hi there 👋
+
+
+I'm Kyubin Jeon. I'm a senior at Dong-Eui University.
+I want to create strong security using deep learning, and I want to solve many natural language processing problems.
+#### Research field
+- 🎓 Dong-Eui University Student
+- Learning Deep Learning, Machine Learning, NLP, Security by AI 
+
+#### Interest
+
+- IOT
+- AI (Machine Learning, Deep Learning)
+- Embedded software (Arduino, Raspberry Pi)
+
+
+📋 PortFolio
+KyuBin's PortFolio   ⏪ Click Here!
+
+
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
