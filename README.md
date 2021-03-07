@@ -18,11 +18,7 @@ I want to create strong security using deep learning, and I want to solve many n
 KyuBin's PortFolio   ⏪ Click Here!
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jgj9883)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--<div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-  
-<!-- </div>
+
 
 <!--
 **jgj9883/jgj9883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
