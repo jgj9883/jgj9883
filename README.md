@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kyubin Jeon, an AI enthusiast and researcher passionate about applying cutting-edge technology to healthcare and animal welfare. I specialize in developing AI solutions for medical and welfare-related challenges.
+I'm Kyubin Jeon, an AI researcher and developer focusing on diagnostic pathology and protein or blood-related tests. I specialize in applying AI to solve challenges in clinical diagnostics and healthcare.
 
 ---
 
@@ -11,33 +11,32 @@ I'm Kyubin Jeon, an AI enthusiast and researcher passionate about applying cutti
 ---
 
 #### 🚀 Research Interests
-- **Medical AI Applications**:  
-  Developing vision recognition and deep learning models for diagnostic tools and disease prediction in healthcare and veterinary medicine.
-  
-- **Animal Welfare**:  
-  Leveraging AI to study diseases and behaviors in animals, improving their care and quality of life.
+- **Diagnostic AI Applications**:  
+  Developing AI models for clinical diagnostic tools, focusing on protein analysis and blood diagnostics.
+
+- **Pathology and Proteomics**:  
+  Leveraging AI to analyze blood samples, detect protein abnormalities, and identify disease markers in diagnostic pathology.
 
 - **Advanced Vision Technology**:  
-  Expertise in various vision applications, including:
-  - Medical Imaging (e.g., CT, MRI, X-rays)
-  - Object Detection and Segmentation
-  - Anomaly Detection in Diagnostics
-  - Real-time Monitoring in Healthcare and Veterinary Fields
+  Expertise in vision-based applications for healthcare diagnostics, including:
+  - Electrophoresis Band Analysis
+  - Multiclass Classification of Blood and Protein Samples
+  - Anomaly Detection in Diagnostic Testing
 
-- **Healthcare Innovation**:  
-  Focusing on precision medicine and AI-driven tools for early disease detection and monitoring.
+- **AI in Laboratory Medicine**:  
+  Building precision AI solutions for automating laboratory workflows, enhancing test accuracy, and early detection of diseases.
 
 ---
 
 #### 💡 Expertise
-- Vision Recognition for Medical Imaging (CT, MRI, X-ray Analysis)
-- Deep Learning Models for Healthcare and Veterinary Diagnostics
-- Data Science Applications in Disease Research
+- Deep Learning Models for Protein and Blood Diagnostics
+- AI-Driven Analysis of Electrophoresis Data
+- Vision-Based Automation in Clinical Pathology
 
 ---
 
 #### 📋 PortFolio
-Take a look at my [Portfolio](https://github.com/jgj9883/jgj9883.github.io/blob/master/README.md) to explore my projects and achievements.
+Explore my [Portfolio](https://github.com/jgj9883/jgj9883.github.io/blob/master/README.md) to see my projects and achievements in AI for diagnostics and pathology.
 
 ---
 
@@ -48,7 +47,7 @@ Take a look at my [Portfolio](https://github.com/jgj9883/jgj9883.github.io/blob/
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... GC Labs
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
